@@ -1,0 +1,2614 @@
+{
+  "schema_version": 1,
+  "game_id": "2026-10-14-fighters-hawks",
+  "wiki_source": "wiki/2026/2026-10-14-fighters-hawks.md",
+  "roster": [
+    {
+      "player_id": "p001",
+      "team": "北海道日本火腿鬥士",
+      "name": "山縣秀",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "首打席安打、得點圈滾地球打點；後段兩次三振",
+      "official_name_ja": "山縣秀"
+    },
+    {
+      "player_id": "p002",
+      "team": "北海道日本火腿鬥士",
+      "name": "奈良間大己",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "成功犧牲觸擊，其他打席貢獻有限",
+      "official_name_ja": "奈良間大己"
+    },
+    {
+      "player_id": "p003",
+      "team": "北海道日本火腿鬥士",
+      "name": "西川遙輝",
+      "name_lang": "ja",
+      "roles": [
+        "代打",
+        "守備替補"
+      ],
+      "rating": "D",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "七局代打三振，隨後擔任中外野手",
+      "official_name_ja": "西川遥輝",
+      "source_name_variant": true
+    },
+    {
+      "player_id": "p004",
+      "team": "北海道日本火腿鬥士",
+      "name": "清宮幸太郎",
+      "name_lang": "ja",
+      "roles": [
+        "代打"
+      ],
+      "rating": "D+",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "九局代打一壘滾地球出局",
+      "official_name_ja": "清宮幸太郎"
+    },
+    {
+      "player_id": "p005",
+      "team": "北海道日本火腿鬥士",
+      "name": "郡司裕也",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C",
+      "additional_ratings": {
+        "打擊": "A-"
+      },
+      "rating_note": "打擊 A-；整場綜合 C，須區分攻守。",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "兩安含全壘打；四局重要接捕失誤",
+      "official_name_ja": "郡司裕也"
+    },
+    {
+      "player_id": "p006",
+      "team": "北海道日本火腿鬥士",
+      "name": "野村佑希",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "兩安與一次觸身球；九局延續攻勢",
+      "official_name_ja": "野村佑希"
+    },
+    {
+      "player_id": "p007",
+      "team": "北海道日本火腿鬥士",
+      "name": "万波中正",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "兩安一保送；重要打席未突破",
+      "official_name_ja": "万波中正"
+    },
+    {
+      "player_id": "p008",
+      "team": "北海道日本火腿鬥士",
+      "name": "Franmil Reyes",
+      "name_lang": "en",
+      "roles": [
+        "指定打擊"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "兩安；滿壘三振與雙殺打減分"
+    },
+    {
+      "player_id": "p009",
+      "team": "北海道日本火腿鬥士",
+      "name": "矢澤宏太",
+      "name_lang": "ja",
+      "roles": [
+        "代跑",
+        "指定打擊"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "樣本有限，沒有打席。",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "七局代跑，留在指定打擊位置；無打席",
+      "official_name_ja": "矢澤宏太"
+    },
+    {
+      "player_id": "p010",
+      "team": "北海道日本火腿鬥士",
+      "name": "柴田獅子",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "D+",
+      "additional_ratings": {},
+      "rating_note": "打擊有貢獻，綜合評級受守備影響。",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "安打與犧牲飛球；四局傳球失誤",
+      "official_name_ja": "柴田獅子"
+    },
+    {
+      "player_id": "p011",
+      "team": "北海道日本火腿鬥士",
+      "name": "進藤勇也",
+      "name_lang": "ja",
+      "roles": [
+        "捕手"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "保送延續攻勢；先發捕手",
+      "official_name_ja": "進藤勇也"
+    },
+    {
+      "player_id": "p012",
+      "team": "北海道日本火腿鬥士",
+      "name": "田宮裕涼",
+      "name_lang": "ja",
+      "roles": [
+        "代打",
+        "捕手"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "八局代打後接替捕手",
+      "official_name_ja": "田宮裕涼"
+    },
+    {
+      "player_id": "p013",
+      "team": "北海道日本火腿鬥士",
+      "name": "水野達稀",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "安打與滿壘保送，直接參與得分",
+      "official_name_ja": "水野達稀"
+    },
+    {
+      "player_id": "p014",
+      "team": "北海道日本火腿鬥士",
+      "name": "山﨑福也",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "先發"
+      ],
+      "rating": "D",
+      "additional_ratings": {},
+      "rating_note": "不宜把 5 分全視為直接投球責任。",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "3⅓ 局失 5 分、自責 2 分；守備牽連重大",
+      "official_name_ja": "山﨑福也"
+    },
+    {
+      "player_id": "p015",
+      "team": "北海道日本火腿鬥士",
+      "name": "大川慈英",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "短局數救援；滿壘與守備失誤壓力",
+      "official_name_ja": "大川慈英"
+    },
+    {
+      "player_id": "p016",
+      "team": "北海道日本火腿鬥士",
+      "name": "島本浩也",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "帳面無失分，但讓繼承跑者得分",
+      "official_name_ja": "島本浩也"
+    },
+    {
+      "player_id": "p017",
+      "team": "北海道日本火腿鬥士",
+      "name": "細野晴希",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "A-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "quick_note": "四局無失分、四三振；保留反攻可能",
+      "official_name_ja": "細野晴希"
+    },
+    {
+      "player_id": "p018",
+      "team": "福岡軟銀鷹",
+      "name": "正木智也",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B-",
+      "additional_ratings": {},
+      "rating_note": "不能將對方接捕失誤視為已證實的強勁飛球。",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "四局飛球造成守備失誤，另有安打",
+      "official_name_ja": "正木智也"
+    },
+    {
+      "player_id": "p019",
+      "team": "福岡軟銀鷹",
+      "name": "周東佑京",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C+",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "安打、犧飛打點；三局跑壘出局",
+      "official_name_ja": "周東佑京"
+    },
+    {
+      "player_id": "p020",
+      "team": "福岡軟銀鷹",
+      "name": "近藤健介",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "A-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "兩支二壘安打；首局與四局皆有貢獻",
+      "official_name_ja": "近藤健介"
+    },
+    {
+      "player_id": "p021",
+      "team": "福岡軟銀鷹",
+      "name": "栗原陵矢",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "安打、保送；四局率先上壘",
+      "official_name_ja": "栗原陵矢"
+    },
+    {
+      "player_id": "p022",
+      "team": "福岡軟銀鷹",
+      "name": "牧原大成",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B+",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "首局先制安打、四局觸身球與保送",
+      "official_name_ja": "牧原大成"
+    },
+    {
+      "player_id": "p023",
+      "team": "福岡軟銀鷹",
+      "name": "山本祐大",
+      "name_lang": "ja",
+      "roles": [
+        "捕手"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "四局犧牲觸擊完成推進；擔任捕手",
+      "official_name_ja": "山本祐大"
+    },
+    {
+      "player_id": "p024",
+      "team": "福岡軟銀鷹",
+      "name": "山川穗高",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "無安打，但四局滿球數保送關鍵",
+      "official_name_ja": "山川穂高",
+      "source_name_variant": true
+    },
+    {
+      "player_id": "p025",
+      "team": "福岡軟銀鷹",
+      "name": "柳町達",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "四局造成對手失誤，另有安打",
+      "official_name_ja": "柳町達"
+    },
+    {
+      "player_id": "p026",
+      "team": "福岡軟銀鷹",
+      "name": "谷川原健太",
+      "name_lang": "ja",
+      "roles": [
+        "守備替補"
+      ],
+      "rating": "C",
+      "additional_ratings": {},
+      "rating_note": "樣本不足，評價保留。",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "九局上場守備，無打席",
+      "official_name_ja": "谷川原健太"
+    },
+    {
+      "player_id": "p027",
+      "team": "福岡軟銀鷹",
+      "name": "庄子雄大",
+      "name_lang": "ja",
+      "roles": [
+        "野手"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "四局滿壘追平安打",
+      "official_name_ja": "庄子雄大"
+    },
+    {
+      "player_id": "p028",
+      "team": "福岡軟銀鷹",
+      "name": "Liván Moinelo",
+      "name_lang": "en",
+      "roles": [
+        "投手",
+        "先發"
+      ],
+      "rating": "D",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "2⅔ 局六安三保送；提前退場"
+    },
+    {
+      "player_id": "p029",
+      "team": "福岡軟銀鷹",
+      "name": "鈴木豪太",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "A-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "1⅓ 局無失分；滿壘危機救援",
+      "official_name_ja": "鈴木豪太"
+    },
+    {
+      "player_id": "p030",
+      "team": "福岡軟銀鷹",
+      "name": "津森宥紀",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "一局無失分，雙殺化解上壘",
+      "official_name_ja": "津森宥紀"
+    },
+    {
+      "player_id": "p031",
+      "team": "福岡軟銀鷹",
+      "name": "Darwinzon Hernández",
+      "name_lang": "en",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "A-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "一局三上三下"
+    },
+    {
+      "player_id": "p032",
+      "team": "福岡軟銀鷹",
+      "name": "Roberto Osuna",
+      "name_lang": "en",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "D+",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "一局三安、一轟，仍守住領先"
+    },
+    {
+      "player_id": "p033",
+      "team": "福岡軟銀鷹",
+      "name": "松本裕樹",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "後援"
+      ],
+      "rating": "A-",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "一局三上三下",
+      "official_name_ja": "松本裕樹"
+    },
+    {
+      "player_id": "p034",
+      "team": "福岡軟銀鷹",
+      "name": "杉山一樹",
+      "name_lang": "ja",
+      "roles": [
+        "投手",
+        "救援"
+      ],
+      "rating": "B",
+      "additional_ratings": {},
+      "rating_note": "",
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "quick_note": "九局有安打壓力，三振關門",
+      "official_name_ja": "杉山一樹"
+    }
+  ],
+  "slides": [
+    {
+      "id": "s01",
+      "section": "opening",
+      "layout": "match-overview",
+      "title": "逆轉的分水嶺｜2026 洋聯季後賽",
+      "message": "軟銀在四局下攻下五分，逆轉日本火腿，最終以 6：4 獲勝。",
+      "blocks": [
+        {
+          "type": "stat",
+          "label": "北海道日本火腿鬥士",
+          "value": "4",
+          "unit": "分",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "福岡軟銀鷹",
+          "value": "6",
+          "unit": "分",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "比賽時間",
+          "value": "3 小時 14 分",
+          "unit": "",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "觀眾",
+          "value": "39,894",
+          "unit": "人",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "高潮系列賽決勝輪第 1 戰；福岡 PayPay 巨蛋。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "match-header"
+          ]
+        }
+      ],
+      "source_sections": [
+        "match-header",
+        "intro"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "逆轉的分水嶺｜2026 洋聯季後賽",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "section": "opening",
+      "layout": "comparison",
+      "title": "11 安打不等於 11 分",
+      "message": "火腿安打多於軟銀，但四局的集中得分決定勝負。",
+      "blocks": [
+        {
+          "type": "stat",
+          "label": "火腿安打",
+          "value": "11",
+          "unit": "支",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "軟銀安打",
+          "value": "8",
+          "unit": "支",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "火腿失誤",
+          "value": "2",
+          "unit": "次",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "軟銀失誤",
+          "value": "0",
+          "unit": "次",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "table",
+          "title": "逐局得分表",
+          "headers": [
+            "球隊",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "合計"
+          ],
+          "rows": [
+            [
+              "日本火腿",
+              "0",
+              "1",
+              "2",
+              "0",
+              "0",
+              "0",
+              "1",
+              "0",
+              "0",
+              "4"
+            ],
+            [
+              "軟銀",
+              "1",
+              "0",
+              "0",
+              "5",
+              "0",
+              "0",
+              "0",
+              "0",
+              "X",
+              "6"
+            ]
+          ],
+          "note": "X：軟銀為主場球隊，九局下未進攻，並非得到 0 分。",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "火腿較高的安打產量沒有充分轉換成分數；不能單看安打數比較兩隊攻勢品質。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "intro"
+          ]
+        }
+      ],
+      "source_sections": [
+        "intro"
+      ],
+      "caveats": [
+        "軟銀九局下未進攻，以 X 標示；不得將未進攻當作零分。"
+      ],
+      "title_segments": [
+        {
+          "text": "11 安打不等於 11 分",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "section": "game-flow",
+      "layout": "game-timeline",
+      "title": "前三局｜火腿反超至 3：1",
+      "message": "軟銀首局先得一分，火腿第二、三局靠安打、犧飛和保送逆轉。",
+      "blocks": [
+        {
+          "type": "event",
+          "inning": 1,
+          "half": "bottom",
+          "order": 1,
+          "description": "近藤二壘安打、栗原保送，牧原適時安打送回先制分。",
+          "source_sections": [
+            "flow-1"
+          ],
+          "score_before": {
+            "away": 0,
+            "home": 0
+          },
+          "score_after": {
+            "away": 0,
+            "home": 1
+          }
+        },
+        {
+          "type": "event",
+          "inning": 2,
+          "half": "top",
+          "order": 2,
+          "description": "火腿連續安打後，山縣的內野滾地球送回追平分。",
+          "source_sections": [
+            "flow-2-3"
+          ],
+          "score_before": {
+            "away": 0,
+            "home": 1
+          },
+          "score_after": {
+            "away": 1,
+            "home": 1
+          }
+        },
+        {
+          "type": "event",
+          "inning": 3,
+          "half": "top",
+          "order": 3,
+          "description": "郡司、野村安打與万波保送形成滿壘；柴田犧飛、水野保送各得一分。",
+          "source_sections": [
+            "flow-2-3"
+          ],
+          "score_before": {
+            "away": 1,
+            "home": 1
+          },
+          "score_after": {
+            "away": 3,
+            "home": 1
+          }
+        },
+        {
+          "type": "text",
+          "text": "Moinelo 在兩出局滿壘退場；鈴木豪太接手以游擊滾地球結束攻勢。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "flow-2-3"
+          ]
+        }
+      ],
+      "source_sections": [
+        "flow-1",
+        "flow-2-3"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "前三局｜火腿反超至 3：1",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "section": "game-flow",
+      "layout": "game-timeline",
+      "title": "四局下｜五分逆轉的五個節點",
+      "message": "不能把整個五分局歸因於單一次失誤。",
+      "blocks": [
+        {
+          "type": "event",
+          "inning": 4,
+          "half": "bottom",
+          "order": 1,
+          "description": "柴田傳本壘失誤，軟銀追回一分。",
+          "source_sections": [
+            "flow-4"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 1
+          },
+          "score_after": {
+            "away": 3,
+            "home": 2
+          }
+        },
+        {
+          "type": "event",
+          "inning": 4,
+          "half": "bottom",
+          "order": 2,
+          "description": "庄子安打，軟銀追平。",
+          "source_sections": [
+            "flow-4"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 2
+          },
+          "score_after": {
+            "away": 3,
+            "home": 3
+          }
+        },
+        {
+          "type": "event",
+          "inning": 4,
+          "half": "bottom",
+          "order": 3,
+          "description": "郡司未完成左外野飛球接捕，軟銀超前。",
+          "source_sections": [
+            "flow-4"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 3
+          },
+          "score_after": {
+            "away": 3,
+            "home": 4
+          }
+        },
+        {
+          "type": "event",
+          "inning": 4,
+          "half": "bottom",
+          "order": 4,
+          "description": "周東犧牲飛球，再添一分。",
+          "source_sections": [
+            "flow-4"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 4
+          },
+          "score_after": {
+            "away": 3,
+            "home": 5
+          }
+        },
+        {
+          "type": "event",
+          "inning": 4,
+          "half": "bottom",
+          "order": 5,
+          "description": "近藤二壘安打，擴大領先至 6：3。",
+          "source_sections": [
+            "flow-4"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 5
+          },
+          "score_after": {
+            "away": 3,
+            "home": 6
+          }
+        }
+      ],
+      "source_sections": [
+        "flow-4"
+      ],
+      "caveats": [
+        "事件比分依原文四局過程整理；不含無法在文字轉存後核實的擊球落點圖。"
+      ],
+      "title_segments": [
+        {
+          "text": "四局下｜五分逆轉的五個節點",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "section": "game-flow",
+      "layout": "key-play",
+      "title": "逆轉的因果｜上壘、推進、失誤與適時打",
+      "message": "投手形成滿壘危機、守備執行失敗與軟銀擊出關鍵安打，共同造成五分局。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "四局前段：栗原安打、牧原觸身球、山本成功犧牲觸擊、山川保送，形成壘上壓力。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "turning"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "守備環節：柴田一壘傳本壘失誤；郡司未完成外野飛球接捕。兩次錯誤的型態不同。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "fighters-defense"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "軟銀自身的成果：庄子追平安打、周東犧牲飛球、近藤適時二壘安打。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "turning"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "五分不能完全歸咎守備，也不能免除投手先前累積壘上跑者的責任。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "turning"
+          ]
+        }
+      ],
+      "source_sections": [
+        "turning",
+        "fighters-defense"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "逆轉的因果｜上壘、推進、失誤與適時打",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "section": "game-flow",
+      "layout": "game-timeline",
+      "title": "後五局｜細野止血、火腿追到兩分差",
+      "message": "軟銀牛棚中段穩住領先；火腿七局全壘打追近，九局仍未能追平。",
+      "blocks": [
+        {
+          "type": "event",
+          "inning": 5,
+          "half": "top",
+          "order": 1,
+          "description": "津森讓 Reyes 擊出雙殺打，阻止攻勢。",
+          "source_sections": [
+            "flow-5-6"
+          ]
+        },
+        {
+          "type": "event",
+          "inning": 6,
+          "half": "top",
+          "order": 2,
+          "description": "Hernández 完成三上三下。",
+          "source_sections": [
+            "flow-5-6"
+          ]
+        },
+        {
+          "type": "event",
+          "inning": 7,
+          "half": "top",
+          "order": 3,
+          "description": "郡司擊出陽春全壘打，火腿追至 4：6。",
+          "source_sections": [
+            "flow-7-9"
+          ],
+          "score_before": {
+            "away": 3,
+            "home": 6
+          },
+          "score_after": {
+            "away": 4,
+            "home": 6
+          }
+        },
+        {
+          "type": "event",
+          "inning": 8,
+          "half": "top",
+          "order": 4,
+          "description": "松本裕樹三上三下。",
+          "source_sections": [
+            "flow-7-9"
+          ]
+        },
+        {
+          "type": "event",
+          "inning": 9,
+          "half": "top",
+          "order": 5,
+          "description": "野村兩出局後安打；杉山三振万波，結束比賽。",
+          "source_sections": [
+            "flow-7-9"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "細野在五至八局投四局無失分，沒有讓軟銀擴大領先。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "fighters-pitching"
+          ]
+        }
+      ],
+      "source_sections": [
+        "flow-5-6",
+        "flow-7-9",
+        "fighters-pitching"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "後五局｜",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "細野",
+          "lang": "ja",
+          "player_id": "p017"
+        },
+        {
+          "text": "止血、火腿追到兩分差",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "section": "roster",
+      "layout": "roster-overview",
+      "title": "日本火腿｜野手與替補",
+      "message": "13 位野手／替補全部保留，包含沒有打席的代跑。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "13 位野手／替補全部保留，包含沒有打席的代跑。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "roster-fighters"
+          ]
+        }
+      ],
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "caveats": [],
+      "roster_player_ids": [
+        "p001",
+        "p002",
+        "p003",
+        "p004",
+        "p005",
+        "p006",
+        "p007",
+        "p008",
+        "p009",
+        "p010",
+        "p011",
+        "p012",
+        "p013"
+      ],
+      "title_segments": [
+        {
+          "text": "日本火腿｜野手與替補",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "section": "roster",
+      "layout": "roster-overview",
+      "title": "日本火腿｜投手",
+      "message": "四名登板投手皆保留；失分與自責分不可混同。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "四名登板投手皆保留；失分與自責分不可混同。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "roster-fighters"
+          ]
+        }
+      ],
+      "source_sections": [
+        "roster-fighters"
+      ],
+      "caveats": [],
+      "roster_player_ids": [
+        "p014",
+        "p015",
+        "p016",
+        "p017"
+      ],
+      "title_segments": [
+        {
+          "text": "日本火腿｜投手",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "section": "roster",
+      "layout": "roster-overview",
+      "title": "軟銀｜野手與守備替補",
+      "message": "10 位野手／替補全部保留，守備組也列入。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "10 位野手／替補全部保留，守備組也列入。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "roster-hawks"
+          ]
+        }
+      ],
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "caveats": [],
+      "roster_player_ids": [
+        "p018",
+        "p019",
+        "p020",
+        "p021",
+        "p022",
+        "p023",
+        "p024",
+        "p025",
+        "p026",
+        "p027"
+      ],
+      "title_segments": [
+        {
+          "text": "軟銀｜野手與守備替補",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "section": "roster",
+      "layout": "roster-overview",
+      "title": "軟銀｜投手",
+      "message": "七名投手完整列出，包含中繼與終結者。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "七名投手完整列出，包含中繼與終結者。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "roster-hawks"
+          ]
+        }
+      ],
+      "source_sections": [
+        "roster-hawks"
+      ],
+      "caveats": [],
+      "roster_player_ids": [
+        "p028",
+        "p029",
+        "p030",
+        "p031",
+        "p032",
+        "p033",
+        "p034"
+      ],
+      "title_segments": [
+        {
+          "text": "軟銀｜投手",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "section": "fighters-batting",
+      "layout": "comparison",
+      "title": "火腿打線｜成功上壘，卻未充分兌現",
+      "message": "前三局迫使 Moinelo 提早下場；全場十一安只換得四分。",
+      "blocks": [
+        {
+          "type": "stat",
+          "label": "全場安打",
+          "value": "11",
+          "unit": "支",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "全場得分",
+          "value": "4",
+          "unit": "分",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "火腿前三局對 Moinelo 累積 6 安、3 次四壞與 1 次觸身球。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "fighters-batting"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "重要打席須同時檢查推進、滿壘三振、雙殺及保送，不能只以安打判斷。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "fighters-batting"
+          ]
+        }
+      ],
+      "source_sections": [
+        "intro",
+        "fighters-batting"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "火腿打線｜成功上壘，卻未充分兌現",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "郡司裕也｜打擊 A-，綜合 C",
+      "message": "七局陽春砲與四局接捕失誤，必須分成兩個面向評價。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p005",
+          "summary": "5 打數 2 安、1 全壘打、1 打點；三局安打開啟攻勢，七局面對 Osuna 首球擊出陽春砲。",
+          "source_sections": [
+            "player-gunji"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "四局左外野接捕失誤使軟銀超前，打擊優異不等於整場貢獻同樣優異。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "defense-gunji"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-gunji",
+        "defense-gunji"
+      ],
+      "caveats": [
+        "綜合評級 C 與打擊 A- 直接沿用原文，非本次重新評級。"
+      ],
+      "title_segments": [
+        {
+          "text": "郡司裕也",
+          "lang": "ja",
+          "player_id": "p005"
+        },
+        {
+          "text": "｜打擊 A-，綜合 C",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "柴田獅子｜得分貢獻與守備成本",
+      "message": "三局犧牲飛球取得打點，四局傳本壘失誤也直接影響比分。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p010",
+          "summary": "3 打數 1 安、1 犧飛、1 打點；三局滿壘以犧牲飛球取得超前分。",
+          "source_sections": [
+            "player-shibata"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "四局一壘傳本壘失誤讓軟銀追回一分；目前資料不足以重建完整傳球動作與替代選擇。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "defense-shibata"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-shibata",
+        "defense-shibata"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "柴田獅子",
+          "lang": "ja",
+          "player_id": "p010"
+        },
+        {
+          "text": "｜得分貢獻與守備成本",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "野村與水野｜容易被打點掩蓋的價值",
+      "message": "野村多次上壘，水野的保送直接擠回分數。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p006",
+          "summary": "4 打數 2 安、1 觸身球；三局安打參與滿壘攻勢，九局兩出局安打延續追平機會。",
+          "source_sections": [
+            "player-nomura"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p013",
+          "summary": "二局安打形成滿壘；三局兩出局滿壘選到保送，直接帶回一分。",
+          "source_sections": [
+            "player-mizuno"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-nomura",
+        "player-mizuno"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "野村",
+          "lang": "ja",
+          "player_id": "p006"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "水野",
+          "lang": "ja",
+          "player_id": "p013"
+        },
+        {
+          "text": "｜容易被打點掩蓋的價值",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "万波與 Reyes｜結果不能概括整場內容",
+      "message": "兩人都有正面上壘貢獻，也都在高價值打席未完成得分。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p007",
+          "summary": "4 打數 2 安、1 保送；三局滿壘前選到保送，五、七局安打；九局遭最後三振。",
+          "source_sections": [
+            "player-mannami"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p008",
+          "summary": "4 打數 2 安；三局無人出局滿壘三振、五局雙殺，七局仍以安打延續攻勢。",
+          "source_sections": [
+            "player-reyes"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "不能把九局一次三振當作万波缺乏季後賽能力的證據。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "player-mannami"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-mannami",
+        "player-reyes"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "万波",
+          "lang": "ja",
+          "player_id": "p007"
+        },
+        {
+          "text": "與 ",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "Reyes",
+          "lang": "en",
+          "player_id": "p008"
+        },
+        {
+          "text": "｜結果不能概括整場內容",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "山縣、奈良間、進藤｜不是只有安打才有價值",
+      "message": "滾地球打點、犧牲觸擊及延續滿壘的保送，各有不同攻擊功能。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p001",
+          "summary": "5 打數 1 安、1 打點；二局滿壘滾地球帶打點，但後段兩次三振。",
+          "source_sections": [
+            "player-yamagata"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p002",
+          "summary": "一局成功犧牲觸擊推進跑者；其他打席貢獻有限。",
+          "source_sections": [
+            "player-narama"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p011",
+          "summary": "三局兩出局一三壘時選到保送，為下一棒水野滿壘保送創造條件。",
+          "source_sections": [
+            "player-shindo"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-yamagata",
+        "player-narama",
+        "player-shindo"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "山縣",
+          "lang": "ja",
+          "player_id": "p001"
+        },
+        {
+          "text": "、",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "奈良間",
+          "lang": "ja",
+          "player_id": "p002"
+        },
+        {
+          "text": "、",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "進藤",
+          "lang": "ja",
+          "player_id": "p011"
+        },
+        {
+          "text": "｜不是只有安打才有價值",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "section": "fighters-batting",
+      "layout": "player-analysis",
+      "title": "四名替補｜樣本差異必須明示",
+      "message": "替補球員不因少量打席而消失，也不能把 C 區間評級解讀為能力證明。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p003",
+          "summary": "七局代打三振，隨後擔任中外野守備。",
+          "source_sections": [
+            "fighter-substitutes"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p012",
+          "summary": "八局代打擊出二壘滾地球，隨後接手捕手。",
+          "source_sections": [
+            "fighter-substitutes"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p004",
+          "summary": "九局代打一壘滾地球出局；不能僅以球數推論攻擊策略錯誤。",
+          "source_sections": [
+            "fighter-substitutes"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p009",
+          "summary": "七局代跑，留在指定打擊位置，沒有打席。",
+          "source_sections": [
+            "fighter-substitutes"
+          ]
+        }
+      ],
+      "source_sections": [
+        "fighter-substitutes"
+      ],
+      "caveats": [
+        "原文小標題寫「三名代打與代跑球員」，實際列舉四人；簡報依四名實際列舉者完整呈現，未修改原文小標題。"
+      ],
+      "title_segments": [
+        {
+          "text": "四名替補｜樣本差異必須明示",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "section": "fighters-defense",
+      "layout": "comparison",
+      "title": "兩個失誤｜同樣重要，但動作不同",
+      "message": "柴田是傳球執行失誤；郡司是外野飛球接捕失誤。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "柴田：一出局滿壘，柳町擊出一壘滾地球，傳本壘失誤使軟銀追回分數。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "defense-shibata"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "郡司：同局平手、正木左外野飛球未接住，讓軟銀取得領先。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "defense-gunji"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "沒有足夠影片或量化守備難度，不能直接比較兩人的技術缺陷孰重。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "fighters-defense"
+          ]
+        }
+      ],
+      "source_sections": [
+        "defense-shibata",
+        "defense-gunji",
+        "fighters-defense"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "兩個失誤｜同樣重要，但動作不同",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "section": "fighters-pitching",
+      "layout": "player-analysis",
+      "title": "山﨑福也｜失五分，自責兩分",
+      "message": "只看失分會高估投球責任；只看自責分又可能低估自身形成危機的責任。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p014",
+          "summary": "3⅓ 局、73 球、4 安、2 四壞、1 觸身、2 三振；失 5 分、自責 2 分。",
+          "source_sections": [
+            "player-yamasaki"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "四局先被栗原安打、牧原觸身球，並保送山川；後續守備失誤又放大失分。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "player-yamasaki"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "失分",
+          "value": "5",
+          "unit": "分",
+          "source_sections": [
+            "player-yamasaki"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "自責分",
+          "value": "2",
+          "unit": "分",
+          "source_sections": [
+            "player-yamasaki"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-yamasaki"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "山﨑福也",
+          "lang": "ja",
+          "player_id": "p014"
+        },
+        {
+          "text": "｜失五分，自責兩分",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "section": "fighters-pitching",
+      "layout": "player-analysis",
+      "title": "細野晴希｜落後時的四局無失分",
+      "message": "真正值得關注的是後援維持局面，不是勝敗投名稱。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p017",
+          "summary": "4 局、62 球、2 安、1 四壞、4 三振、無失分；五局化解危機、七八局連續六人出局。",
+          "source_sections": [
+            "player-hosono"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "投球局數",
+          "value": "4",
+          "unit": "局",
+          "source_sections": [
+            "player-hosono"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "三振",
+          "value": "4",
+          "unit": "次",
+          "source_sections": [
+            "player-hosono"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "本場缺乏統一定義的 Whiff% 與 CSW% 分母，不能補畫揮空率圖表。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "player-hosono"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-hosono"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "細野晴希",
+          "lang": "ja",
+          "player_id": "p017"
+        },
+        {
+          "text": "｜落後時的四局無失分",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "section": "fighters-pitching",
+      "layout": "player-analysis",
+      "title": "大川與島本｜繼承跑者不能被忽略",
+      "message": "失分記帳與當下救援執行品質，是兩種不同問題。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p015",
+          "summary": "⅓ 局、7 球、1 安；承受滿壘壓力，庄子追平安打、後續守備失誤使局勢惡化。",
+          "source_sections": [
+            "player-okawa"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p016",
+          "summary": "⅓ 局、11 球、1 安；帳面無失分，但讓近藤以二壘安打帶回前任投手留下的跑者。",
+          "source_sections": [
+            "player-shimamto"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-okawa",
+        "player-shimamto"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "大川",
+          "lang": "ja",
+          "player_id": "p015"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "島本",
+          "lang": "ja",
+          "player_id": "p016"
+        },
+        {
+          "text": "｜繼承跑者不能被忽略",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "section": "hawks-batting",
+      "layout": "comparison",
+      "title": "軟銀打線｜安打不多，得分時機集中",
+      "message": "首局先制；四局把上壘、推進與對手失誤連結成五分攻勢。",
+      "blocks": [
+        {
+          "type": "stat",
+          "label": "全場安打",
+          "value": "8",
+          "unit": "支",
+          "source_sections": [
+            "intro"
+          ]
+        },
+        {
+          "type": "stat",
+          "label": "四局下得分",
+          "value": "5",
+          "unit": "分",
+          "source_sections": [
+            "flow-4"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "四局並非單靠長打；安打、觸身、保送、犧觸、犧飛與守備失誤一起推動得分。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "hawks-batting"
+          ]
+        }
+      ],
+      "source_sections": [
+        "intro",
+        "flow-4",
+        "hawks-batting"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "軟銀打線｜安打不多，得分時機集中",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "section": "hawks-batting",
+      "layout": "player-analysis",
+      "title": "近藤健介｜同為二壘安打，情境價值不同",
+      "message": "一局啟動先制攻勢，四局在已領先後增加安全分。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p020",
+          "summary": "4 打數 2 安，皆為二壘安打；一局兩出局後建立攻勢、四局兩出局時再添一分。",
+          "source_sections": [
+            "player-kondo"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "六局雙殺打也是當日負面結果；不能推定四局長打原本鎖定特定球種。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "player-kondo"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-kondo"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "近藤健介",
+          "lang": "ja",
+          "player_id": "p020"
+        },
+        {
+          "text": "｜同為二壘安打，情境價值不同",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s24",
+      "section": "hawks-batting",
+      "layout": "player-analysis",
+      "title": "栗原與牧原｜攻勢建立者",
+      "message": "沒有大量打點，也可能對得分形成有重要貢獻。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p021",
+          "summary": "一局保送延續攻勢；四局第一名打者擊出安打，開啟五分局。",
+          "source_sections": [
+            "player-kurihara"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p022",
+          "summary": "首局先制適時安打，四局遭觸身球、五局選到保送。",
+          "source_sections": [
+            "player-makihara"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "觸身球與保送不應不加區分地當作主動選球能力。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "player-makihara"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-kurihara",
+        "player-makihara"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "栗原",
+          "lang": "ja",
+          "player_id": "p021"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "牧原",
+          "lang": "ja",
+          "player_id": "p022"
+        },
+        {
+          "text": "｜攻勢建立者",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s25",
+      "section": "hawks-batting",
+      "layout": "player-analysis",
+      "title": "庄子與正木｜直接安打與守備失誤分開看",
+      "message": "庄子是追平安打；正木飛球形成超前分，但有對手失誤因素。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p027",
+          "summary": "四局一出局滿壘，擊出右外野適時安打追平；五局得點圈三振是負面紀錄。",
+          "source_sections": [
+            "player-shoji"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p018",
+          "summary": "四局擊出左外野飛球，郡司接捕失誤造成超前分；六局另有安打。",
+          "source_sections": [
+            "player-masaki"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "不能僅憑失誤造成超前分，就斷言正木擊出強勁飛球。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "player-masaki"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-shoji",
+        "player-masaki"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "庄子",
+          "lang": "ja",
+          "player_id": "p027"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "正木",
+          "lang": "ja",
+          "player_id": "p018"
+        },
+        {
+          "text": "｜直接安打與守備失誤分開看",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s26",
+      "section": "hawks-batting",
+      "layout": "player-analysis",
+      "title": "周東與山本｜推進、得分與失敗",
+      "message": "四局犧牲飛球與觸擊推進值得肯定；同場也有跑壘和觸擊失敗。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p019",
+          "summary": "三局安打上壘後在牽制相關過程出局；四局犧飛帶回一分，六局觸擊失敗。",
+          "source_sections": [
+            "player-shuto"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p023",
+          "summary": "四局成功犧牲觸擊，推進一二壘跑者；捕手的配球成效不能由全場牛棚結果推論。",
+          "source_sections": [
+            "player-yamamoto"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-shuto",
+        "player-yamamoto"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "周東",
+          "lang": "ja",
+          "player_id": "p019"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "山本",
+          "lang": "ja",
+          "player_id": "p023"
+        },
+        {
+          "text": "｜推進、得分與失敗",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "section": "hawks-batting",
+      "layout": "player-analysis",
+      "title": "山川、柳町與谷川原｜樣本與貢獻邊界",
+      "message": "四局的重要保送、打進場內形成失誤，與純守備替補要分開理解。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p024",
+          "summary": "無安打；四局一出局二三壘、滿球數保送形成滿壘；另有兩次三振。",
+          "source_sections": [
+            "player-yamakawa"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p025",
+          "summary": "四局滿壘滾地球造成柴田傳本壘失誤；五局安打則是直接攻擊成果。",
+          "source_sections": [
+            "player-yanagimachi"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p026",
+          "summary": "九局接替右外野守備，沒有打席或可確認的重大守備處理。",
+          "source_sections": [
+            "player-tanigawara"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-yamakawa",
+        "player-yanagimachi",
+        "player-tanigawara"
+      ],
+      "caveats": [
+        "谷川原 C 為評價保留，不能當作完整守備能力判定。"
+      ],
+      "title_segments": [
+        {
+          "text": "山川",
+          "lang": "ja",
+          "player_id": "p024"
+        },
+        {
+          "text": "、",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "柳町",
+          "lang": "ja",
+          "player_id": "p025"
+        },
+        {
+          "text": "與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "谷川原",
+          "lang": "ja",
+          "player_id": "p026"
+        },
+        {
+          "text": "｜樣本與貢獻邊界",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "section": "hawks-pitching",
+      "layout": "comparison",
+      "title": "Moinelo 與鈴木｜同場兩種出局效率",
+      "message": "先發 2⅔ 局就退場；鈴木危機中接手，四個出局數只用 13 球。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p028",
+          "summary": "2⅔ 局、70 球、6 安、3 四壞、1 觸身、3 三振、3 自責分；18 名打者，難以控制上壘。",
+          "source_sections": [
+            "player-moinelo"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p029",
+          "summary": "1⅓ 局、13 球、0 安、0 四壞、0 失分；三局兩出局滿壘接手，讓山縣滾地球出局。",
+          "source_sections": [
+            "player-suzuki"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Moinelo 仍有三振能力，不能因此場推定整季球威衰退。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "player-moinelo"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-moinelo",
+        "player-suzuki"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "Moinelo",
+          "lang": "en",
+          "player_id": "p028"
+        },
+        {
+          "text": " 與",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "鈴木",
+          "lang": "ja",
+          "player_id": "p029"
+        },
+        {
+          "text": "｜同場兩種出局效率",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s29",
+      "section": "hawks-pitching",
+      "layout": "player-analysis",
+      "title": "軟銀中繼｜津森與 Hernández",
+      "message": "五、六局沒有讓火腿延續已創造的上壘壓力。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p030",
+          "summary": "一局 12 球、1 安、1 三振；万波安打後讓 Reyes 擊出雙殺，再三振柴田。",
+          "source_sections": [
+            "player-tsumori"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p031",
+          "summary": "一局 13 球、0 安、1 三振；六局連續解決進藤、水野、山縣。",
+          "source_sections": [
+            "player-hernandez"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-tsumori",
+        "player-hernandez"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "軟銀中繼｜",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "津森",
+          "lang": "ja",
+          "player_id": "p030"
+        },
+        {
+          "text": "與 ",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "Hernández",
+          "lang": "en",
+          "player_id": "p031"
+        }
+      ]
+    },
+    {
+      "id": "s30",
+      "section": "hawks-pitching",
+      "layout": "player-analysis",
+      "title": "七至九局｜Osuna、松本、杉山",
+      "message": "七局失一分，八局三上三下，九局在追平壓力中守住勝利。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p032",
+          "summary": "七局 3 安、1 轟、1 自責分，郡司開轟後仍被万波與 Reyes 連續安打。",
+          "source_sections": [
+            "player-osuna"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p033",
+          "summary": "八局 13 球、0 安、1 三振，三上三下。",
+          "source_sections": [
+            "player-matsumoto"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p034",
+          "summary": "九局 16 球、1 安、1 三振，野村兩出局安打後，以揮空三振解決万波。",
+          "source_sections": [
+            "player-sugiyama"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-osuna",
+        "player-matsumoto",
+        "player-sugiyama"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "七至九局｜",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "Osuna",
+          "lang": "en",
+          "player_id": "p032"
+        },
+        {
+          "text": "、",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "松本",
+          "lang": "ja",
+          "player_id": "p033"
+        },
+        {
+          "text": "、",
+          "lang": "zh-TW"
+        },
+        {
+          "text": "杉山",
+          "lang": "ja",
+          "player_id": "p034"
+        }
+      ]
+    },
+    {
+      "id": "s31",
+      "section": "pitching",
+      "layout": "comparison",
+      "title": "從投手觀察勝負｜帳面頭銜不夠",
+      "message": "本場代表性救援在三局的鈴木，也在火腿五至八局的細野。",
+      "blocks": [
+        {
+          "type": "player",
+          "player_id": "p029",
+          "summary": "滿壘接手止血，比勝投名稱更能解釋本場價值。",
+          "source_sections": [
+            "player-suzuki"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p017",
+          "summary": "四局無失分阻止差距擴大，使落後一方保有追分可能。",
+          "source_sections": [
+            "player-hosono"
+          ]
+        },
+        {
+          "type": "player",
+          "player_id": "p014",
+          "summary": "自責分只有 2，卻也須承擔讓多名跑者上壘的危機形成責任。",
+          "source_sections": [
+            "player-yamasaki"
+          ]
+        }
+      ],
+      "source_sections": [
+        "player-suzuki",
+        "player-hosono",
+        "player-yamasaki"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "從投手觀察勝負｜帳面頭銜不夠",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s32",
+      "section": "context",
+      "layout": "summary",
+      "title": "裁判與質性資料｜證據不夠就保留",
+      "message": "已列出裁判組，但沒有足夠逐球位置證據判定好球帶偏差。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "本場球審川口；壘審村山、山本貴、岩下；左線審山路、右線審梅木。",
+          "evidence_kind": "official_record",
+          "source_sections": [
+            "umpires"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "未取得足夠逐球位置資料，不能因 Moinelo 保送多就推定球審好球帶過窄。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "umpire-analysis"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "原文提及《Daily Sports》守備失誤報導，以及パ・リーグTV 官方影片入口，但純文字版本沒有可驗證的完整連結。",
+          "evidence_kind": "media_commentary",
+          "source_sections": [
+            "qualitative"
+          ],
+          "text_segments": [
+            {
+              "text": "原文提及《Daily Sports》守備失誤報導，以及",
+              "lang": "zh-TW"
+            },
+            {
+              "text": "パ・リーグTV",
+              "lang": "ja"
+            },
+            {
+              "text": " 官方影片入口，但純文字版本沒有可驗證的完整連結。",
+              "lang": "zh-TW"
+            }
+          ]
+        }
+      ],
+      "source_sections": [
+        "umpires",
+        "umpire-analysis",
+        "qualitative"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "裁判與質性資料｜證據不夠就保留",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s33",
+      "section": "context",
+      "layout": "summary",
+      "title": "季後賽情境｜觀察強弱點，不貼永久標籤",
+      "message": "在高壓打席觀察執行能力，但單場結果不足以證明長期季後賽適性。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "鈴木、細野、近藤的本場高張力情境證據偏正面。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "playoff"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "郡司打擊正面、守備需持續觀察；山﨑危機形成責任與失誤影響都需納入。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "playoff"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Moinelo 本場出局效率不佳、万波最後遭三振，但不能據此推論長期季後賽能力。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "playoff"
+          ]
+        }
+      ],
+      "source_sections": [
+        "playoff"
+      ],
+      "caveats": [
+        "這裡沿用原文純文字質性觀察，不建立另一套字母或數值的「季後賽適性」評級。"
+      ],
+      "title_segments": [
+        {
+          "text": "季後賽情境｜觀察強弱點，不貼永久標籤",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s34",
+      "section": "closing",
+      "layout": "summary",
+      "title": "帶走五個重要結論",
+      "message": "勝負分水嶺在真正改變局勢的攻守處理，而不只看單一個人或數據頭銜。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "火腿十一安四分：成功對 Moinelo 製造壓力，但得分轉換不足。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "conclusion"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "四局五分：失誤很關鍵，仍需納入投手控管與軟銀安打、推進成果。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "conclusion"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "細野四局無失分，以及鈴木滿壘救援，都是容易被傳統勝敗投忽略的價值。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "conclusion"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "近藤兩次重要長打，郡司打擊與守備表現落差，提醒結果與過程需分開評價。",
+          "evidence_kind": "analysis_inference",
+          "source_sections": [
+            "conclusion"
+          ]
+        }
+      ],
+      "source_sections": [
+        "conclusion"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "帶走五個重要結論",
+          "lang": "zh-TW"
+        }
+      ]
+    },
+    {
+      "id": "s35",
+      "section": "closing",
+      "layout": "sources",
+      "title": "來源與限制｜哪些是已知、哪些還待查",
+      "message": "本簡報忠實轉換提供的賽後文章，不宣稱重新查核外部網站。",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "原文章列示：NPB 日本野球機構官方賽事紀錄、官方投打成績、逐打席紀錄、Sports Navi 文字速報。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "limitations"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "原文章另引用《Daily Sports》守備報導，並提到パ・リーグTV 的官方影片入口；本次純文字素材遺失部分連結，未建立虛構 URL。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "qualitative"
+          ],
+          "text_segments": [
+            {
+              "text": "原文章另引用《Daily Sports》守備報導，並提到",
+              "lang": "zh-TW"
+            },
+            {
+              "text": "パ・リーグTV",
+              "lang": "ja"
+            },
+            {
+              "text": " 的官方影片入口；本次純文字素材遺失部分連結，未建立虛構 URL。",
+              "lang": "zh-TW"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "缺乏完整擊球初速、強勁擊球率、Whiff%、CSW%、球審好球帶及跨季比較的一致資料。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "limitations"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "球員姓名保留原稿文字版本；正式日文姓名字形尚未另行核對。",
+          "evidence_kind": "uncertainty",
+          "source_sections": [
+            "roster"
+          ]
+        }
+      ],
+      "source_sections": [
+        "limitations",
+        "qualitative",
+        "roster"
+      ],
+      "caveats": [],
+      "title_segments": [
+        {
+          "text": "來源與限制｜哪些是已知、哪些還待查",
+          "lang": "zh-TW"
+        }
+      ]
+    }
+  ]
+}

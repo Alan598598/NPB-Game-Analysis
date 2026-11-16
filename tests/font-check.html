@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NPB 本機字型驗收頁（不部署）</title>
+<style>
+:root{--zh:"DFKai-SB","BiauKai",serif;--en:"Times New Roman",Times,serif;--ja:"UD Digi Kyokasho N-R","Yu Mincho",serif}
+body{margin:30px auto;padding:0 24px;max-width:850px;background:#F5F0E8;color:#382F2B;line-height:1.75;font-family:var(--zh)}
+section{padding:20px;margin:14px 0;background:#FFFDF9;border:1px solid #D7CCBF;border-radius:12px}
+.sample{font-size:27px;font-weight:400;line-height:1.8;overflow-wrap:anywhere}
+:lang(zh-TW){font-family:var(--zh)}:lang(en){font-family:var(--en)}:lang(ja){font-family:var(--ja)}
+small{color:#655B54}code{font-family:monospace}
+</style></head>
+<body>
+<h1>NPB 字型驗收：Windows Chrome</h1>
+<p>此檔案僅供 Windows 本機開啟，不需安裝軟體、不會上傳 GitHub Pages。請使用 <strong>F12 → Elements → Computed → Rendered Fonts</strong> 檢查「實際渲染字型」，勿只看 font-family 的 CSS 名稱。</p>
+<section><small>正體中文：預期 DFKai-SB</small><p class="sample" id="font-zh" lang="zh-TW">每一場比賽，都值得再讀一次。繁體中文，標楷體。</p></section>
+<section><small>English / digits：預期 Times New Roman</small><p class="sample" id="font-en" lang="en">NPB GAME ANALYSIS 2026 · 35 / 35 · S A+ B-</p></section>
+<section><small>日本語：預期 UD Digi Kyokasho N-R</small><p class="sample" id="font-ja" lang="ja">山﨑福也　山縣秀　西川遥輝　山川穂高。ひらがな・カタカナ。</p></section>
+<section><small>混排：分段檢查字型</small><p class="sample" id="font-mixed"><span lang="zh-TW">日本火腿的</span> <span lang="ja">山﨑福也</span> <span lang="zh-TW">在第</span><span lang="en">4</span><span lang="zh-TW">局登板；</span> <span lang="en">NPB</span>。</p></section>
+<section><h2>閱讀結果判定</h2><p>指定字型全部實際顯示 → 通過。任何字型由其他字型替代 → 待改善／視環境註明；不能只因頁面能開啟就判定通過。</p><p><small>本檔的示例「西川遥輝」「山川穂高」為 NPB 官方日文寫法；簡報資料仍保留原文使用的「西川遙輝」「山川穗高」。</small></p></section>
+</body></html>
