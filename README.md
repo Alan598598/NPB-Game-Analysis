@@ -29,7 +29,7 @@ JS/CSS 依賴	零第三方套件、零外部圖片
 - [games.json](docs/data/games.json)：公開簡報首頁資料。
 - [slides.json](docs/slides/2026-10-14-fighters-hawks/slides.json)：35 頁簡報資料及全員清冊。
 - [validate_project.py](scripts/validate_project.py)：不需另安裝套件的資料驗證程式。
-2. Windows 本機開啟方法（不消耗 Codex 額度）
+2. Windows 本機開啟方法
 1. 下載專案 ZIP，完整解壓縮至專用資料夾，例如 C:\Projects\NPB-Game-Analysis。
 2. 先進入專案最內層的 docs 資料夾，確認看得到 index.html。在 Windows 檔案總管該資料夾的網址列輸入 cmd，按 Enter。這樣命令提示字元就會開在正確位置。
 3. 確認有安裝 Python，於上述 docs 資料夾中執行：
